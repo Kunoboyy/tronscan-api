@@ -193,7 +193,7 @@ All contract endpoints return the same result
 ```json
 {
   "contract": {
-    "ownerAddress": "TPwJS5eC5BPGyMGtYTHNhPTB89sUWjDSSu"
+    "ownerAddress": "TUMPRB2oS7RNpuQFpANiVsgE3d86PkMzdn"
   },
   ...
 }
